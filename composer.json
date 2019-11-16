@@ -1,3 +1,16 @@
 {
-
+    "name": "azmi/mibot",
+    "description": "mencoba sesuatu yang baru",
+    "type": "project",
+    "require": {
+        "php": "^7.2",
+        "slim/slim": "^4.3",
+        "linecorp/line-bot-sdk": "^3.15"
+    },
+    "authors": [
+        {
+            "name": "Ulul Azmi",
+            "email": "azmimaru15@gmail.com"
+        }
+    ]
 }
